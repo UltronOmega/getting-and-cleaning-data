@@ -14,7 +14,7 @@ Here are the basic steps in my script:
 4.  Merged both training and test set, after reading all files, adding activity for all observations and assigning everything specific colnames
 5.  Extracted only required columns as per the instruction in assignment with mean and stddev
 6.  Replaced the activity IDs with activity names to define each activity done by subjects
-7.  Finally created an independent data set with subjectID and activity and then reformed all cols as seprate varibles
+7.  Finally created an independent data set with subjectID and activity and then reformed all cols as separate varibles
 8.  Written the new tidy data in rlib which is my directory for R.
 
 
